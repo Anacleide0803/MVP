@@ -1,2 +1,0 @@
-# MVP
-Análise de dados 
